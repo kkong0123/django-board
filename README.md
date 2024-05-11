@@ -29,30 +29,35 @@
 
 * * *
 <br>
-### 3. 게시글 상세 페이지 - 답변달기
+
+#### 3. 게시글 상세 페이지 - 답변달기
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/273db298-29ff-4c5e-93b1-6f12cd8ee73b" width="100%"  alt=""></img>
 
 * * *
 <br>
-#### 4. 수정 및 추천 기능
+
+##### 4. 수정 및 추천 기능
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/58f0d4f9-7b43-423e-add3-d32701106f34" width="100%"  alt=""></img>
 
 * * *
 <br>
+
 #### 5. 회원가입 페이지
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/fade9c69-2cc1-433d-baca-36c42dec86c1" width="100%"  alt=""></img>
 
 * * *
 <br>
+
 #### 6. 로그인 페이지
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/9264669c-291d-42ab-8223-91345ebb0e08" width="100%"  alt=""></img>
 
 * * *
 <br>
+
 #### 7. 게시글 작성 페이지
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/1003f283-df73-4b44-b670-e2186ac32af0" width="100%"  alt=""></img>
