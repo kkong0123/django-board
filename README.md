@@ -8,14 +8,14 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
 
 
-점프 투 장고 책을 바탕으로 게시판을 제작했다.
+[점프 투 장고](https://wikidocs.net/book/4223) 책을 바탕으로 게시판을 제작했다.
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/08d35771-97b2-4caa-8708-9fea209ed254" width="20%"  title="px(픽셀) 크기 설정" alt="book"></img>
 
-[참고: 점프투장고](https://wikidocs.net/book/4223)
 
 
-* * *
+# 페이지 소개
+
 ### 1. 게시판 메인 페이지
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/790d9fc8-25be-4676-84a8-a9a34db80063" width="100%"  alt=""></img>
