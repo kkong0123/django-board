@@ -37,7 +37,7 @@
 * * *
 <br>
 
-##### 4. 수정 및 추천 기능
+#### 4. 추천 및 수정 기능
 
 <img src="https://github.com/kkong0123/django-board/assets/104900966/58f0d4f9-7b43-423e-add3-d32701106f34" width="100%"  alt=""></img>
 
